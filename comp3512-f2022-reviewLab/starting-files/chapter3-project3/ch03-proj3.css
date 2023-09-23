@@ -1,5 +1,5 @@
-main > img{
+div{
+    display: inline-flex;
     width: auto;
-    display:block   
-    height: 200px;
+    height: auto;
 }
