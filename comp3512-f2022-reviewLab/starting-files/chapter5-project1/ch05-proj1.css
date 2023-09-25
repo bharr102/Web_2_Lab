@@ -35,7 +35,10 @@ section h3 {
     background-color:    #03A9F4;    
 }
 
-
+thead
+{
+    text-align: center;
+}
 
 /* table formatting -- you will add these */
 
